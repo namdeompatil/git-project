@@ -1,0 +1,33 @@
+How to check git version:
+
+#git --version
+
+How to configure git first time
+
+#git config --global user.name namdeo
+#git config --global user.email namdeo.patil@abc.com
+
+How to check username and email ID
+
+#git config user.name
+#git config user.email
+
+How to create repo first time:
+
+#git init
+
+How to check status of file
+
+#git status
+
+How to add file in staging
+
+#git add <FileName> shown in above cmd o/p
+
+How to remove file from staging area
+
+#git rm --cached <filename>
+
+How to add all changed files in staging
+
+#git add .

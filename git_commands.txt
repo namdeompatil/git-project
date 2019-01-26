@@ -30,4 +30,4 @@ How to remove file from staging area
 
 How to add all changed files in staging
 
-#git add .
+#git add . g
